@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "message": "This copy has been disabled. Contact the owner.",
+    "allowedPlaceIds": [YOUR_PLACE_ID],
+    "revokedPlaceIds": []
+  }
